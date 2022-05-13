@@ -10,4 +10,4 @@ Functions: rock-paper-scissors.json, sleep-debt-calculator.json
 
 Arrays: secret-message.json
 
-Loops:
+Loops: whale-talk.json
